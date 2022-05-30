@@ -4,3 +4,18 @@
   line-height: 1;
   margin-top: 0;
 }
+
+.card {
+  max-width: 30%;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #000;
+}
+
+.card-content {
+  padding: 0 15px;
+}
+
+.date {
+  color: gray;
+}
